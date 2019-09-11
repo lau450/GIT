@@ -1,0 +1,14 @@
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\bin\Debug\GIT.exe.config
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\bin\Debug\GIT.exe
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\bin\Debug\GIT.pdb
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\obj\Debug\GIT.csprojResolveAssemblyReference.cache
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\obj\Debug\GIT.Form1.resources
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\obj\Debug\GIT.Properties.Resources.resources
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\obj\Debug\GIT.csproj.GenerateResource.Cache
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\obj\Debug\GIT.exe
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\obj\Debug\GIT.pdb
+c:\users\business\documents\visual studio 2015\Projects\GIT\GIT\obj\Debug\GIT.Form2.resources
+C:\Users\Usuario\Desktop\GIT\GIT\bin\Debug\GIT.exe.config
+C:\Users\Usuario\Desktop\GIT\GIT\obj\Debug\GIT.exe
+C:\Users\Usuario\Desktop\GIT\GIT\obj\Debug\GIT.pdb
+C:\Users\Usuario\Desktop\GIT\GIT\obj\Debug\GIT.csprojResolveAssemblyReference.cache
